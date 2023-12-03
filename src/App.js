@@ -10,16 +10,19 @@ import { useState } from 'react';
 
 const App =(props)=> {
   const [mode,setMode]=useState('light');
+  const [text,setText]=useState('Enable Dark Mode');
 
   const toggleMode=()=>{
     if(mode==='light'){
       setMode('dark')
       document.body.style.backgroundColor='rgb(0 44 58)'
+      setText('Disable Dark Mode')
       // document.title='TextUtils - Dark Mode'
     }
     else{
       setMode('light')
-      document.body.style.backgroundColor='white'
+      document.body.style.backgroundColor='white';
+      setText('Enable Dark Mode')
       // document.title='TextUtils - Light Mode'
     }
   }
@@ -39,7 +42,7 @@ const App =(props)=> {
         progress={progress}
         //onLoaderFinished={() => handleProgress(0)}
       />
-      <NavBar mode={mode} toggleMode={toggleMode} />
+      <NavBar text={text} mode={mode} toggleMode={toggleMode} />
       <Routes>
       <Route exact path="/" element={<News mode={mode}  apiKey={apiKey} handleProgress={handleProgress} key="general" headline="World" pageSize={6} category="world"/>} ></Route>
         <Route exact path="/arts" element={<News mode={mode} apiKey={apiKey}  handleProgress={handleProgress} key="arts" headline="Arts" pageSize={6} category="arts"/>} ></Route>
