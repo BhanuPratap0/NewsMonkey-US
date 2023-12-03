@@ -1,0 +1,1681 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2023 The New York Times Company. All Rights Reserved.",
+    "section": "Science",
+    "last_updated": "2023-12-01T12:25:48-05:00",
+    "num_results": 27,
+    "results": [
+        {
+            "section": "science",
+            "subsection": "",
+            "title": "Sign Up for the Science Times Newsletter",
+            "abstract": "Every week, we’ll bring you stories that capture the wonders of the human body, nature and the cosmos.",
+            "url": "null",
+            "uri": "nyt://embeddedinteractive/daba9d03-29b8-5cfc-8cbd-74b8abf54a07",
+            "byline": "",
+            "item_type": "EmbeddedInteractive",
+            "updated_date": "2018-04-07T13:23:25-04:00",
+            "created_date": "2016-02-05T18:18:53-05:00",
+            "published_date": "2016-02-05T18:18:53-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2016/02/06/science/sciencenewsletter2/sciencenewsletter2-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1534,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "NASA, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2016/02/06/science/sciencenewsletter2/sciencenewsletter2-mediumThreeByTwo440.jpg",
+                    "format": "mediumThreeByTwo440",
+                    "height": 293,
+                    "width": 440,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "NASA, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2016/02/06/science/sciencenewsletter2/sciencenewsletter2-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "NASA, via Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "admin",
+            "subsection": "",
+            "title": "",
+            "abstract": "",
+            "url": "",
+            "uri": "nyt://embeddedinteractive/6cb185ed-65ac-50a5-ace3-5bab81934245",
+            "byline": "",
+            "item_type": "EmbeddedInteractive",
+            "updated_date": "2015-07-20T13:45:03-04:00",
+            "created_date": "2015-04-16T14:13:18-04:00",
+            "published_date": "2015-04-16T14:13:18-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": null,
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Siblings Fight Over Estate of Mother Whose Land Yielded a T. Rex Skeleton",
+            "abstract": "The skeleton, which was found on a ranch in South Dakota in 1990 and later sold for more than $8 million, has been the subject of numerous legal challenges.",
+            "url": "https://www.nytimes.com/2023/12/03/us/sue-t-rex-sale-dispute.html",
+            "uri": "nyt://article/71fd6dcc-926a-5e53-bf65-e216a7d99067",
+            "byline": "By Lola Fadulu and Michael Levenson",
+            "item_type": "Article",
+            "updated_date": "2023-12-03T09:50:36-05:00",
+            "created_date": "2023-12-03T09:00:23-05:00",
+            "published_date": "2023-12-03T09:00:23-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Dinosaurs",
+                "Wills and Estates",
+                "Decisions and Verdicts",
+                "Fossils"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Darlene Williams"
+            ],
+            "geo_facet": [
+                "South Dakota"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/30/multimedia/30xp-dinosaur-hzlg/30xp-dinosaur-hzlg-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Garth Dallman, center, and Bill Kouchie, right, of the dinosaur restoration firm Research Casting International, Ltd., begin dismantling Sue, the Tyrannosaurus rex, at the Field Museum of Natural History in Chicago in 2018.",
+                    "copyright": "Teresa Crawford/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/30/multimedia/30xp-dinosaur-hzlg/30xp-dinosaur-hzlg-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Garth Dallman, center, and Bill Kouchie, right, of the dinosaur restoration firm Research Casting International, Ltd., begin dismantling Sue, the Tyrannosaurus rex, at the Field Museum of Natural History in Chicago in 2018.",
+                    "copyright": "Teresa Crawford/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/30/multimedia/30xp-dinosaur-hzlg/30xp-dinosaur-hzlg-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Garth Dallman, center, and Bill Kouchie, right, of the dinosaur restoration firm Research Casting International, Ltd., begin dismantling Sue, the Tyrannosaurus rex, at the Field Museum of Natural History in Chicago in 2018.",
+                    "copyright": "Teresa Crawford/Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Fate of Billions for Opioid Victims From Sacklers Rests With Supreme Court",
+            "abstract": "The court will decide whether Purdue’s owners can gain permanent immunity from future opioid lawsuits in exchange for payments up to $6 billion.",
+            "url": "https://www.nytimes.com/2023/12/03/health/sacklers-supreme-court.html",
+            "uri": "nyt://article/0e9d75ab-603f-54a5-973d-bc3187121676",
+            "byline": "By Jan Hoffman",
+            "item_type": "Article",
+            "updated_date": "2023-12-03T08:22:23-05:00",
+            "created_date": "2023-12-03T05:01:21-05:00",
+            "published_date": "2023-12-03T05:01:21-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "your-feed-science",
+                "Suits and Litigation (Civil)",
+                "Drug Abuse and Traffic",
+                "Opioids and Opiates",
+                "OxyContin (Drug)",
+                "Pain-Relieving Drugs",
+                "Compensation for Damages (Law)",
+                "your-feed-healthcare"
+            ],
+            "org_facet": [
+                "Purdue Pharma",
+                "Supreme Court (US)"
+            ],
+            "per_facet": [
+                "Sackler Family"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/30/science/00PURDUE-SCOTUS-01/00PURDUE-SCOTUS-01-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1336,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "From left: Tiffinee Scott, Dede Yoder and Cheryl Juaire, whose children became addicted to the Purdue painkiller OxyContin and later died, wrote to the Supreme Court.",
+                    "copyright": "Hilary Swift for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/30/science/00PURDUE-SCOTUS-01/00PURDUE-SCOTUS-01-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "From left: Tiffinee Scott, Dede Yoder and Cheryl Juaire, whose children became addicted to the Purdue painkiller OxyContin and later died, wrote to the Supreme Court.",
+                    "copyright": "Hilary Swift for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/30/science/00PURDUE-SCOTUS-01/00PURDUE-SCOTUS-01-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "From left: Tiffinee Scott, Dede Yoder and Cheryl Juaire, whose children became addicted to the Purdue painkiller OxyContin and later died, wrote to the Supreme Court.",
+                    "copyright": "Hilary Swift for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "What to Know About Home Care Services",
+            "abstract": "Finding an aide to help an older person stay at home safely takes work. Here’s a guide.",
+            "url": "https://www.nytimes.com/2023/12/02/health/home-care-explainer.html",
+            "uri": "nyt://article/e2a3bf9e-83e8-5b3c-9fb0-b1977dfe486b",
+            "byline": "By Reed Abelson",
+            "item_type": "Article",
+            "updated_date": "2023-12-02T09:36:55-05:00",
+            "created_date": "2023-12-02T05:02:30-05:00",
+            "published_date": "2023-12-02T05:02:30-05:00",
+            "material_type_facet": "",
+            "kicker": "Dying Broke: The High Cost of help",
+            "des_facet": [
+                "Elderly",
+                "Home Health Care",
+                "Health Insurance and Managed Care",
+                "Medicare",
+                "Long-Term Care Insurance",
+                "your-feed-healthcare"
+            ],
+            "org_facet": [
+                "Health and Human Services Department",
+                "Center for Medicare Advocacy"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/30/science/01LTC-HOMECARE-SERVICE/00LTC-HOMECARE-workers-02-cmqj-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "April Abel, a former home health nurse at Roper St. Francis Healthcare, in the home of a patient, Ron Keur, in Summerville, S.C., in 2022.",
+                    "copyright": "Desiree Rios/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/30/science/01LTC-HOMECARE-SERVICE/01LTC-HOMECARE-SERVICE-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "April Abel, a former home health nurse at Roper St. Francis Healthcare, in the home of a patient, Ron Keur, in Summerville, S.C., in 2022.",
+                    "copyright": "Desiree Rios/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/30/science/01LTC-HOMECARE-SERVICE/00LTC-HOMECARE-workers-02-cmqj-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "April Abel, a former home health nurse at Roper St. Francis Healthcare, in the home of a patient, Ron Keur, in Summerville, S.C., in 2022.",
+                    "copyright": "Desiree Rios/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Desperate Families Search for Affordable Home Care",
+            "abstract": "Facing a severe shortage of aides and high costs, people trying to keep aging loved ones at home often cobble together a patchwork of family and friends to help.",
+            "url": "https://www.nytimes.com/2023/12/02/health/home-health-care-aide-labor.html",
+            "uri": "nyt://article/6059155f-48c9-5bee-a9a8-b98a53255026",
+            "byline": "By Reed Abelson and Desiree Rios",
+            "item_type": "Article",
+            "updated_date": "2023-12-02T11:24:36-05:00",
+            "created_date": "2023-12-02T05:00:42-05:00",
+            "published_date": "2023-12-02T05:00:42-05:00",
+            "material_type_facet": "",
+            "kicker": "dying broke: The High Cost of Help",
+            "des_facet": [
+                "Home Health Care",
+                "Health Insurance and Managed Care",
+                "Wages and Salaries",
+                "Shortages",
+                "Elderly",
+                "Labor and Jobs",
+                "Dementia",
+                "Medicaid",
+                "Retirement Communities and Assisted Living",
+                "United States Politics and Government",
+                "Medicare"
+            ],
+            "org_facet": [
+                "Bureau of Labor Statistics",
+                "Kaiser Family Foundation",
+                "Genworth Financial Inc"
+            ],
+            "per_facet": [
+                "Biden, Joseph R Jr"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/30/science/01LTC-HOMECARE-SERVICE/00LTC-HOMECARE-workers-02-cmqj-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "April Abel, a former home health nurse at Roper St. Francis Healthcare, in the home of a patient, Ron Keur, in Summerville, S.C., in 2022.",
+                    "copyright": "Desiree Rios/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/30/science/01LTC-HOMECARE-SERVICE/01LTC-HOMECARE-SERVICE-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "April Abel, a former home health nurse at Roper St. Francis Healthcare, in the home of a patient, Ron Keur, in Summerville, S.C., in 2022.",
+                    "copyright": "Desiree Rios/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/30/science/01LTC-HOMECARE-SERVICE/00LTC-HOMECARE-workers-02-cmqj-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "April Abel, a former home health nurse at Roper St. Francis Healthcare, in the home of a patient, Ron Keur, in Summerville, S.C., in 2022.",
+                    "copyright": "Desiree Rios/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Biden Administration Unleashes Powerful Regulatory Tool Aimed at Climate",
+            "abstract": "Its new estimate of the economic impact of climate change could create the legal justification for aggressive new regulations.",
+            "url": "https://www.nytimes.com/2023/12/02/climate/biden-social-cost-carbon-climate-change.html",
+            "uri": "nyt://article/191e7dc4-130d-5b23-94c5-6e26f90d310e",
+            "byline": "By Coral Davenport",
+            "item_type": "Article",
+            "updated_date": "2023-12-02T08:57:27-05:00",
+            "created_date": "2023-12-02T03:01:31-05:00",
+            "published_date": "2023-12-02T03:01:31-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Global Warming",
+                "Greenhouse Gas Emissions",
+                "Regulation and Deregulation of Industry",
+                "Methane",
+                "Factories and Manufacturing",
+                "Oil (Petroleum) and Gasoline",
+                "United States Economy",
+                "Carbon Dioxide",
+                "United Nations Framework Convention on Climate Change"
+            ],
+            "org_facet": [
+                "Environmental Protection Agency"
+            ],
+            "per_facet": [
+                "Biden, Joseph R Jr"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/12/02/climate/02cli-costofcarbon/02cli-costofcarbon-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Tucked in its new rules to curb methane emissions, the E.P.A. set a new social cost for carbon, a number almost four times its previous amount: $190 a ton.",
+                    "copyright": "Matthew Brown/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/12/02/climate/02cli-costofcarbon/02cli-costofcarbon-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Tucked in its new rules to curb methane emissions, the E.P.A. set a new social cost for carbon, a number almost four times its previous amount: $190 a ton.",
+                    "copyright": "Matthew Brown/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/12/02/climate/02cli-costofcarbon/02cli-costofcarbon-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Tucked in its new rules to curb methane emissions, the E.P.A. set a new social cost for carbon, a number almost four times its previous amount: $190 a ton.",
+                    "copyright": "Matthew Brown/Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Scientists in Discredited Alcohol Study Will Not Advise U.S. on Drinking Guidelines",
+            "abstract": "Two researchers with ties to beer and liquor companies had been named to a panel that will review the health evidence on alcohol consumption. But after a New York Times story was published, the panel’s organizers decided to drop them.",
+            "url": "https://www.nytimes.com/2023/12/01/health/alcohol-health-guidelines.html",
+            "uri": "nyt://article/45ac4d50-79c0-575c-94c5-d42680bdac11",
+            "byline": "By Roni Caryn Rabin",
+            "item_type": "Article",
+            "updated_date": "2023-12-02T12:19:14-05:00",
+            "created_date": "2023-12-01T17:22:25-05:00",
+            "published_date": "2023-12-01T17:22:25-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Alcoholic Beverages",
+                "Conflicts of Interest",
+                "Research",
+                "Clinical Trials",
+                "your-feed-healthcare",
+                "your-feed-science",
+                "internal-storyline-no"
+            ],
+            "org_facet": [
+                "National Academies of Sciences, Engineering and Medicine",
+                "National Institute on Alcohol Abuse and Alcoholism",
+                "National Institutes of Health"
+            ],
+            "per_facet": [
+                "Mukamal, Kenneth J",
+                "Rimm, Eric B"
+            ],
+            "geo_facet": [
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/12/01/science/01alcohol/01alcohol-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Although alcohol, and particularly red wine, has long enjoyed a health halo, more rigorous recent research and concerns about industry bias have raised doubts about its health benefits.",
+                    "copyright": "Brandon Bell/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/12/01/science/01alcohol/01alcohol-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Although alcohol, and particularly red wine, has long enjoyed a health halo, more rigorous recent research and concerns about industry bias have raised doubts about its health benefits.",
+                    "copyright": "Brandon Bell/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/12/01/science/01alcohol/01alcohol-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Although alcohol, and particularly red wine, has long enjoyed a health halo, more rigorous recent research and concerns about industry bias have raised doubts about its health benefits.",
+                    "copyright": "Brandon Bell/Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "U.S. Health Officials Push Back on Idea of New Virus in China",
+            "abstract": "A surge of children has been hospitalized in China for respiratory illnesses, but international health authorities said the cause was common viruses and bacteria.",
+            "url": "https://www.nytimes.com/article/china-respiratory-illness-pneumonia.html",
+            "uri": "nyt://article/ecab6f56-1e10-50a6-8112-bff7c7ba47b0",
+            "byline": "By Benjamin Mueller and Emily Baumgaertner",
+            "item_type": "Article",
+            "updated_date": "2023-12-02T16:29:23-05:00",
+            "created_date": "2023-12-01T16:54:02-05:00",
+            "published_date": "2023-12-01T16:54:02-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Disease Rates",
+                "Viruses",
+                "Children and Childhood",
+                "Bacteria",
+                "Respiratory Diseases",
+                "Pneumonia",
+                "Influenza",
+                "Coronavirus (2019-nCoV)",
+                "your-feed-science"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "China"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/12/01/multimedia/01china-illness-cvgq/01china-illness-cvgq-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The waiting room of a children’s hospital in Beijing last month. Experts say there are no signs of a threatening new pathogen.",
+                    "copyright": "Jade Gao/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/12/01/multimedia/01china-illness-cvgq/01china-illness-cvgq-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The waiting room of a children’s hospital in Beijing last month. Experts say there are no signs of a threatening new pathogen.",
+                    "copyright": "Jade Gao/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/12/01/multimedia/01china-illness-cvgq/01china-illness-cvgq-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The waiting room of a children’s hospital in Beijing last month. Experts say there are no signs of a threatening new pathogen.",
+                    "copyright": "Jade Gao/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "U.S. Rate of Suicide by Firearm Reaches Record Level",
+            "abstract": "Gun suicides increased from prepandemic rates in all racial and ethnic groups, but the degree of change differed drastically.",
+            "url": "https://www.nytimes.com/2023/11/30/health/suicide-guns-cdc.html",
+            "uri": "nyt://article/f133293e-c3da-584e-89e5-50da10b65433",
+            "byline": "By Emily Baumgaertner",
+            "item_type": "Article",
+            "updated_date": "2023-12-01T23:03:52-05:00",
+            "created_date": "2023-11-30T13:28:32-05:00",
+            "published_date": "2023-11-30T13:28:32-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "your-feed-science",
+                "Suicides and Suicide Attempts",
+                "Race and Ethnicity",
+                "Income Inequality",
+                "Firearms",
+                "Native Americans",
+                "Research",
+                "Black People",
+                "Hispanic-Americans",
+                "Population",
+                "your-feed-healthcare"
+            ],
+            "org_facet": [
+                "Centers for Disease Control and Prevention"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/30/science/30SCI-GUNSUICIDES/30SCI-GUNSUICIDES-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Photos of people who died by suicide were displayed during an awareness event in Los Angeles last month.",
+                    "copyright": "Allen J. Schaben/Los Angeles Times, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/30/science/30SCI-GUNSUICIDES/30SCI-GUNSUICIDES-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Photos of people who died by suicide were displayed during an awareness event in Los Angeles last month.",
+                    "copyright": "Allen J. Schaben/Los Angeles Times, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/30/science/30SCI-GUNSUICIDES/30SCI-GUNSUICIDES-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Photos of people who died by suicide were displayed during an awareness event in Los Angeles last month.",
+                    "copyright": "Allen J. Schaben/Los Angeles Times, via Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Brain Study Suggests Traumatic Memories Are Processed as Present Experience",
+            "abstract": "Traumatic memories had their own neural mechanism, brain scans showed, which may help explain their vivid and intrusive nature.",
+            "url": "https://www.nytimes.com/2023/11/30/health/ptsd-memories-brain-trauma.html",
+            "uri": "nyt://article/680254da-b94d-50ec-8b0c-abd2e4ff2e2a",
+            "byline": "By Ellen Barry",
+            "item_type": "Article",
+            "updated_date": "2023-11-30T15:45:15-05:00",
+            "created_date": "2023-11-30T11:00:09-05:00",
+            "published_date": "2023-11-30T11:00:09-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Research",
+                "Post-Traumatic Stress Disorder",
+                "Therapy and Rehabilitation",
+                "Memory",
+                "Psychology and Psychologists",
+                "Brain",
+                "your-feed-healthcare",
+                "your-feed-science"
+            ],
+            "org_facet": [
+                "Nature Neuroscience (Journal)"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/12/05/science/30PTSD/Geoff-B-Hall-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An M.R.I. scan of a brain highlighting the posterior cingulate cortex. In a study, traumatic memories appeared to engage this area, which is usually involved in internally directed thought, like introspection or daydreaming.",
+                    "copyright": "Geoff B. Hall"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/12/05/science/30PTSD/Geoff-B-Hall-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An M.R.I. scan of a brain highlighting the posterior cingulate cortex. In a study, traumatic memories appeared to engage this area, which is usually involved in internally directed thought, like introspection or daydreaming.",
+                    "copyright": "Geoff B. Hall"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/12/05/science/30PTSD/Geoff-B-Hall-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An M.R.I. scan of a brain highlighting the posterior cingulate cortex. In a study, traumatic memories appeared to engage this area, which is usually involved in internally directed thought, like introspection or daydreaming.",
+                    "copyright": "Geoff B. Hall"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Climate Change Drives New Cases of Malaria, Complicating Efforts to Fight the Disease",
+            "abstract": "The number of malaria cases rose again in 2022, propelled by flooding and warmer weather in areas once free of the illness.",
+            "url": "https://www.nytimes.com/2023/11/30/health/malaria-climate-change.html",
+            "uri": "nyt://article/0c6ab7e5-1daf-5ef1-b36c-a86efa66c1b2",
+            "byline": "By Stephanie Nolen",
+            "item_type": "Article",
+            "updated_date": "2023-12-01T22:49:59-05:00",
+            "created_date": "2023-11-30T09:00:29-05:00",
+            "published_date": "2023-11-30T09:00:29-05:00",
+            "material_type_facet": "",
+            "kicker": "Global Health",
+            "des_facet": [
+                "Malaria",
+                "Floods",
+                "Supply Chain",
+                "Global Warming",
+                "Deaths (Fatalities)",
+                "Disease Rates",
+                "Pesticides",
+                "Two Thousand Twenty Two",
+                "Vaccination and Immunization",
+                "Weather",
+                "your-feed-science"
+            ],
+            "org_facet": [
+                "World Health Organization"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Ethiopia",
+                "Pakistan",
+                "Nigeria",
+                "Uganda"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/30/science/30malaria-climate/30malaria-climate-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A doctor tended to a malaria patient affected by flooding in a hospital in Sehwan, Pakistan, last year.",
+                    "copyright": "Akhtar Soomro/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/30/science/30malaria-climate/30malaria-climate-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A doctor tended to a malaria patient affected by flooding in a hospital in Sehwan, Pakistan, last year.",
+                    "copyright": "Akhtar Soomro/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/30/science/30malaria-climate/30malaria-climate-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A doctor tended to a malaria patient affected by flooding in a hospital in Sehwan, Pakistan, last year.",
+                    "copyright": "Akhtar Soomro/Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "A Climate Summit Begins With Fossil Fuels, and Frustration, Going Strong",
+            "abstract": "After decades of meetings, nations still haven’t agreed to curb the main driver of global warming.",
+            "url": "https://www.nytimes.com/2023/11/30/climate/cop28-climate-dubai-un.html",
+            "uri": "nyt://article/98507fa2-0e9e-5924-b636-50d70109157d",
+            "byline": "By David Gelles",
+            "item_type": "Article",
+            "updated_date": "2023-12-01T11:35:27-05:00",
+            "created_date": "2023-11-30T04:00:15-05:00",
+            "published_date": "2023-11-30T04:00:15-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Global Warming",
+                "Greenhouse Gas Emissions",
+                "United Nations Framework Convention on Climate Change",
+                "International Relations",
+                "Developing Countries",
+                "Alternative and Renewable Energy",
+                "Oil (Petroleum) and Gasoline",
+                "Pollution"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Al Jaber, Sultan (1973- )"
+            ],
+            "geo_facet": [
+                "Dubai (United Arab Emirates)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/30/multimedia/30cli-cop28-skeptics-01-tkgf/30cli-cop28-skeptics-01-tkgf-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Preparations underway for the opening of the United Nations Climate Summit in Dubai on Wednesday.",
+                    "copyright": "Peter Dejong/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/30/multimedia/30cli-cop28-skeptics-01-tkgf/30cli-cop28-skeptics-01-tkgf-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Preparations underway for the opening of the United Nations Climate Summit in Dubai on Wednesday.",
+                    "copyright": "Peter Dejong/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/30/multimedia/30cli-cop28-skeptics-01-tkgf/30cli-cop28-skeptics-01-tkgf-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Preparations underway for the opening of the United Nations Climate Summit in Dubai on Wednesday.",
+                    "copyright": "Peter Dejong/Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Where the World Is (and Isn’t) Making Progress on Climate Change",
+            "abstract": "Emissions from electricity and transportation are projected to fall over time, a new report finds, but industry remains a major climate challenge.",
+            "url": "https://www.nytimes.com/2023/11/30/climate/cop28-global-progress-carbon-emissions.html",
+            "uri": "nyt://article/b6b15675-d663-5883-b0e9-87cb4b14375d",
+            "byline": "By Brad Plumer and Nadja Popovich",
+            "item_type": "Article",
+            "updated_date": "2023-12-01T12:09:21-05:00",
+            "created_date": "2023-11-30T04:00:03-05:00",
+            "published_date": "2023-11-30T04:00:03-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Global Warming",
+                "Greenhouse Gas Emissions",
+                "Electric Light and Power",
+                "Factories and Manufacturing",
+                "Alternative and Renewable Energy",
+                "Carbon Dioxide",
+                "Electric and Hybrid Vehicles",
+                "Fuel Emissions (Transportation)",
+                "United Nations Framework Convention on Climate Change"
+            ],
+            "org_facet": [
+                "Rhodium Group LLC"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/30/multimedia/2023-11-28-climate-sector-projections-index/2023-11-28-climate-sector-projections-index-superJumbo.png",
+                    "format": "Super Jumbo",
+                    "height": 1333,
+                    "width": 2000,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/30/multimedia/2023-11-28-climate-sector-projections-index/2023-11-28-climate-sector-projections-index-threeByTwoSmallAt2X.png",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/30/multimedia/2023-11-28-climate-sector-projections-index/2023-11-28-climate-sector-projections-index-thumbLarge.png",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "espanol",
+            "subsection": "",
+            "title": "¿Un medicamento para que tu perro viva más?",
+            "abstract": "Los fármacos para la longevidad de nuestros compañeros caninos están cada vez más cerca de hacerse realidad. También plantean interrogantes.",
+            "url": "https://www.nytimes.com/es/2023/11/30/espanol/medicamento-para-que-tu-perro-viva-mas.html",
+            "uri": "nyt://article/cd8909c8-707d-5458-b3a3-18e9f00e349a",
+            "byline": "By Emily Anthes",
+            "item_type": "Article",
+            "updated_date": "2023-12-02T14:08:50-05:00",
+            "created_date": "2023-11-30T02:00:12-05:00",
+            "published_date": "2023-11-30T02:00:12-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "your-feed-science",
+                "your-feed-animals",
+                "Pets",
+                "Dogs",
+                "Clinical Trials",
+                "Drugs (Pharmaceuticals)",
+                "Veterinary Medicine",
+                "Longevity"
+            ],
+            "org_facet": [
+                "Food and Drug Administration"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/28/multimedia/28DOGS-LONGEVITY-promo-tmvf/28DOGS-LONGEVITY-promo-tmvf-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1536,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Grant Hindsley for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/28/multimedia/28DOGS-LONGEVITY-promo-tmvf/28DOGS-LONGEVITY-promo-tmvf-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Grant Hindsley for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/28/multimedia/28DOGS-LONGEVITY-promo-tmvf/28DOGS-LONGEVITY-promo-tmvf-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Grant Hindsley for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "U.S. Life Expectancy Creeps Up as Covid Deaths Fall",
+            "abstract": "But the country’s health has not fully rebounded from the pandemic, according to new data from the C.D.C.",
+            "url": "https://www.nytimes.com/2023/11/29/health/us-life-expectancy-covid-deaths.html",
+            "uri": "nyt://article/78e636a3-c1eb-5656-8bcc-ca78204040f6",
+            "byline": "By Emily Anthes and Benjamin Mueller",
+            "item_type": "Article",
+            "updated_date": "2023-11-30T12:09:47-05:00",
+            "created_date": "2023-11-29T11:14:18-05:00",
+            "published_date": "2023-11-29T11:14:18-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Deaths (Fatalities)",
+                "Longevity",
+                "Coronavirus (2019-nCoV)",
+                "your-feed-healthcare",
+                "your-feed-science"
+            ],
+            "org_facet": [
+                "Centers for Disease Control and Prevention"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/29/multimedia/29cdc-lbjw/29cdc-lbjw-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In 2022, life expectancy at birth was 77.5 years, compared with 76.4 years in 2021, the C.D.C. calculated.",
+                    "copyright": "Michael Hanson for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/29/multimedia/29cdc-lbjw/29cdc-lbjw-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In 2022, life expectancy at birth was 77.5 years, compared with 76.4 years in 2021, the C.D.C. calculated.",
+                    "copyright": "Michael Hanson for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/29/multimedia/29cdc-lbjw/29cdc-lbjw-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In 2022, life expectancy at birth was 77.5 years, compared with 76.4 years in 2021, the C.D.C. calculated.",
+                    "copyright": "Michael Hanson for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Wolverines Get Protection in the Lower 48 States",
+            "abstract": "Officials will add the predators, threatened by climate change and habitat loss in much of the United States, to the Endangered Species List.",
+            "url": "https://www.nytimes.com/2023/11/29/climate/wolverines-endangered-species-act.html",
+            "uri": "nyt://article/549d5be6-fe28-59b0-8560-2d0810eb53c7",
+            "byline": "By Catrin Einhorn",
+            "item_type": "Article",
+            "updated_date": "2023-11-30T22:50:28-05:00",
+            "created_date": "2023-11-29T08:45:09-05:00",
+            "published_date": "2023-11-29T08:45:09-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Endangered and Extinct Species",
+                "Conservation of Resources",
+                "Wolverines",
+                "Global Warming"
+            ],
+            "org_facet": [
+                "Fish and Wildlife Service"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/29/climate/29cli-wolverines/29cli-wolverines-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An estimated 300 wolverines remain in the lower 48, in parts of the northern Rocky Mountains and northern Cascades in Montana, Idaho, Wyoming and Washington.",
+                    "copyright": "NHPA/Photoshot, via Science Source"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/29/climate/29cli-wolverines/29cli-wolverines-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An estimated 300 wolverines remain in the lower 48, in parts of the northern Rocky Mountains and northern Cascades in Montana, Idaho, Wyoming and Washington.",
+                    "copyright": "NHPA/Photoshot, via Science Source"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/29/climate/29cli-wolverines/29cli-wolverines-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An estimated 300 wolverines remain in the lower 48, in parts of the northern Rocky Mountains and northern Cascades in Montana, Idaho, Wyoming and Washington.",
+                    "copyright": "NHPA/Photoshot, via Science Source"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "realestate",
+            "subsection": "",
+            "title": "This Seed Season, Consider a Catalog That Takes a Different Approach",
+            "abstract": "At Turtle Tree Seed, adults with developmental differences work “side by side” with other staff to produce seed that’s more artisanal than agribusiness.",
+            "url": "https://www.nytimes.com/2023/11/29/realestate/gardening-farming-turtle-tree-seed.html",
+            "uri": "nyt://article/4e9d8d39-161c-5d55-9d39-ed1ef122fe73",
+            "byline": "By Margaret Roach",
+            "item_type": "Article",
+            "updated_date": "2023-12-01T20:24:03-05:00",
+            "created_date": "2023-11-29T05:03:45-05:00",
+            "published_date": "2023-11-29T05:03:45-05:00",
+            "material_type_facet": "",
+            "kicker": "IN THE GARDEN",
+            "des_facet": [
+                "Real Estate and Housing (Residential)",
+                "Gardens and Gardening",
+                "Flowers and Plants",
+                "Content Type: Service"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/12/03/realestate/29garden01/oakImage-1701038067622-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Turtle Tree Seed is part of Camphill Village Copake, an intentional community of adults with developmental differences. Tasks are broken down into component parts so that all can contribute, whatever their abilities.",
+                    "copyright": "Camphill Village Copake"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/12/03/realestate/29garden01/oakImage-1701038067622-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Turtle Tree Seed is part of Camphill Village Copake, an intentional community of adults with developmental differences. Tasks are broken down into component parts so that all can contribute, whatever their abilities.",
+                    "copyright": "Camphill Village Copake"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/12/03/realestate/29garden01/oakImage-1701038067622-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Turtle Tree Seed is part of Camphill Village Copake, an intentional community of adults with developmental differences. Tasks are broken down into component parts so that all can contribute, whatever their abilities.",
+                    "copyright": "Camphill Village Copake"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Innovative Cancer Treatment May Sometimes Cause Cancer, F.D.A. Says",
+            "abstract": "The agency is looking into reports that some patients developed new blood cancers after receiving CAR-T treatments.",
+            "url": "https://www.nytimes.com/2023/11/28/health/fda-car-t-blood-cancer.html",
+            "uri": "nyt://article/5ae71a78-9fc0-5f6c-b0af-5c2364ab7f8c",
+            "byline": "By Gina Kolata",
+            "item_type": "Article",
+            "updated_date": "2023-11-28T20:59:34-05:00",
+            "created_date": "2023-11-28T20:34:34-05:00",
+            "published_date": "2023-11-28T20:34:34-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Cancer",
+                "Immunotherapy",
+                "Blood",
+                "Genetic Engineering",
+                "Research"
+            ],
+            "org_facet": [
+                "Food and Drug Administration"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/28/science/28cancer-treatment/28cancer-treatment-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1364,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A composite colored scanning electron micrograph of T cells, blue, and a lymphoma cancer cell, red.",
+                    "copyright": "Steve Gschmeissner/Science Source"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/28/science/28cancer-treatment/28cancer-treatment-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A composite colored scanning electron micrograph of T cells, blue, and a lymphoma cancer cell, red.",
+                    "copyright": "Steve Gschmeissner/Science Source"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/28/science/28cancer-treatment/28cancer-treatment-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A composite colored scanning electron micrograph of T cells, blue, and a lymphoma cancer cell, red.",
+                    "copyright": "Steve Gschmeissner/Science Source"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "business",
+            "subsection": "media",
+            "title": "Popular Science Shuts Online Magazine in Another Sign of Decline",
+            "abstract": "The decision came three years after the publication ended its storied print edition, which began in 1872. It will still publish articles and videos on its website.",
+            "url": "https://www.nytimes.com/2023/11/28/business/media/popular-science-magazine-closes.html",
+            "uri": "nyt://article/0a15f16c-563d-5303-a45a-43bb775aa65d",
+            "byline": "By Michael Levenson",
+            "item_type": "Article",
+            "updated_date": "2023-11-29T23:32:59-05:00",
+            "created_date": "2023-11-28T17:55:20-05:00",
+            "published_date": "2023-11-28T17:55:20-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Shutdowns (Institutional)",
+                "Layoffs and Job Reductions",
+                "Magazines",
+                "Consumer Behavior",
+                "Science and Technology",
+                "News and News Media"
+            ],
+            "org_facet": [
+                "Popular Science"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/28/multimedia/28xp-popsci/28xp-popsci-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 1638,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Popular Science was “very beautiful, very historical” and “a real treasure of American popular intellectual publishing,” a former editor in chief of the publication said.",
+                    "copyright": "Shawshots/Alamy Stock Photo"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/28/multimedia/28xp-popsci/28xp-popsci-threeByTwoSmallAt2X-v3.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Popular Science was “very beautiful, very historical” and “a real treasure of American popular intellectual publishing,” a former editor in chief of the publication said.",
+                    "copyright": "Shawshots/Alamy Stock Photo"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/28/multimedia/28xp-popsci/28xp-popsci-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Popular Science was “very beautiful, very historical” and “a real treasure of American popular intellectual publishing,” a former editor in chief of the publication said.",
+                    "copyright": "Shawshots/Alamy Stock Photo"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Files Suggest Climate Summit’s Leader Is Using Event to Promote Fossil Fuels",
+            "abstract": "A leaked document has talking points for the president of the United Nations climate conference, who is an oil executive in the United Arab Emirates, to advance oil and gas deals.",
+            "url": "https://www.nytimes.com/2023/11/28/climate/uae-cop28-documents-al-jaber.html",
+            "uri": "nyt://article/77f7e2d8-de6f-5713-b811-72a735c39f0b",
+            "byline": "By Hiroko Tabuchi",
+            "item_type": "Article",
+            "updated_date": "2023-11-29T14:09:39-05:00",
+            "created_date": "2023-11-28T10:44:18-05:00",
+            "published_date": "2023-11-28T10:44:18-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United Nations Framework Convention on Climate Change",
+                "Global Warming",
+                "Oil (Petroleum) and Gasoline",
+                "Natural Gas",
+                "Lobbying and Lobbyists",
+                "Politics and Government"
+            ],
+            "org_facet": [
+                "Abu Dhabi National Oil Co (ADNOC)",
+                "United Nations"
+            ],
+            "per_facet": [
+                "Al Jaber, Sultan (1973- )"
+            ],
+            "geo_facet": [
+                "United Arab Emirates"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/28/multimedia/28CLI-UAEDOCUMENTS-02-kqbl/28CLI-UAEDOCUMENTS-02-kqbl-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1367,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Sultan Al Jaber heads Adnoc as well as a smaller state-owned renewables company, Masdar.",
+                    "copyright": "Callaghan O'Hare/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/28/multimedia/28CLI-UAEDOCUMENTS-02-kqbl/28CLI-UAEDOCUMENTS-02-kqbl-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Sultan Al Jaber heads Adnoc as well as a smaller state-owned renewables company, Masdar.",
+                    "copyright": "Callaghan O'Hare/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/28/multimedia/28CLI-UAEDOCUMENTS-02-kqbl/28CLI-UAEDOCUMENTS-02-kqbl-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Sultan Al Jaber heads Adnoc as well as a smaller state-owned renewables company, Masdar.",
+                    "copyright": "Callaghan O'Hare/Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "nyregion",
+            "subsection": "",
+            "title": "Will Dyeing the Connecticut River Help Keep It Alive?",
+            "abstract": "Hydrilla, a rapidly spreading invasive plant, is choking New England’s longest river. Government scientists are fighting back.",
+            "url": "https://www.nytimes.com/2023/11/28/nyregion/connecticut-river-hydrilla-red-dye.html",
+            "uri": "nyt://article/16e3e622-f8e6-5ad2-a608-7527e1d714a3",
+            "byline": "By Amelia Nierenberg",
+            "item_type": "Article",
+            "updated_date": "2023-11-28T16:32:27-05:00",
+            "created_date": "2023-11-28T03:00:18-05:00",
+            "published_date": "2023-11-28T03:00:18-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Dyes and Dyestuffs",
+                "Defoliants and Herbicides",
+                "Invasive Species"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Connecticut River"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/21/multimedia/Conn-River--01-wvbc/Conn-River--01-wvbc-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An unusually aggressive strain of hydrilla is clogging a 70-mile stretch of the Connecticut River. Scientists fear it will spread more widely.",
+                    "copyright": "Christopher Capozziello for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/21/multimedia/Conn-River--01-wvbc/Conn-River--01-wvbc-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An unusually aggressive strain of hydrilla is clogging a 70-mile stretch of the Connecticut River. Scientists fear it will spread more widely.",
+                    "copyright": "Christopher Capozziello for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/21/multimedia/Conn-River--01-wvbc/Conn-River--01-wvbc-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An unusually aggressive strain of hydrilla is clogging a 70-mile stretch of the Connecticut River. Scientists fear it will spread more widely.",
+                    "copyright": "Christopher Capozziello for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Egypt Wiped Out Hepatitis C. Now It Is Trying to Help the Rest of Africa.",
+            "abstract": "Effective drugs that have made the disease curable have yet to reach most  of the region.",
+            "url": "https://www.nytimes.com/2023/11/28/health/hepatitis-c-cure-egypt.html",
+            "uri": "nyt://article/86b8e7cb-53b4-5826-9b06-d638a25fe85a",
+            "byline": "By Stephanie Nolen and Natalija Gormalova",
+            "item_type": "Article",
+            "updated_date": "2023-11-28T10:40:31-05:00",
+            "created_date": "2023-11-28T00:00:41-05:00",
+            "published_date": "2023-11-28T00:00:41-05:00",
+            "material_type_facet": "",
+            "kicker": "Global Health",
+            "des_facet": [
+                "Hepatitis",
+                "Medicine and Health",
+                "International Relations",
+                "Developing Countries",
+                "your-feed-healthcare",
+                "your-feed-science"
+            ],
+            "org_facet": [
+                "World Health Organization"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Africa",
+                "Egypt",
+                "Ghana"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/28/multimedia/xx-hepatitis-ghana-08-vgwk/xx-hepatitis-ghana-08-vgwk-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Dr. Nartey, a physician at Cape Coast Teaching Hospital, joined the Coalition of Global Hepatitis Elimination to make a plan for Ghana’s new response.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/28/multimedia/xx-hepatitis-ghana-08-vgwk/xx-hepatitis-ghana-08-vgwk-threeByTwoSmallAt2X-v2.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Dr. Nartey, a physician at Cape Coast Teaching Hospital, joined the Coalition of Global Hepatitis Elimination to make a plan for Ghana’s new response.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/28/multimedia/xx-hepatitis-ghana-08-vgwk/xx-hepatitis-ghana-08-vgwk-thumbLarge-v2.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Dr. Nartey, a physician at Cape Coast Teaching Hospital, joined the Coalition of Global Hepatitis Elimination to make a plan for Ghana’s new response.",
+                    "copyright": ""
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Biden’s Absence at Climate Summit Highlights His Fossil Fuel Conundrum",
+            "abstract": "The president is facing some pressure to focus on oil drilling and gas prices at home, while boosting climate ambition on the world stage.",
+            "url": "https://www.nytimes.com/2023/11/27/climate/biden-cop28-climate-dubai.html",
+            "uri": "nyt://article/38a950b8-3e19-5e7d-ab07-3998fded76d8",
+            "byline": "By Jim Tankersley and Lisa Friedman",
+            "item_type": "Article",
+            "updated_date": "2023-11-28T23:30:22-05:00",
+            "created_date": "2023-11-27T16:47:04-05:00",
+            "published_date": "2023-11-27T16:47:04-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Global Warming",
+                "Oil (Petroleum) and Gasoline",
+                "International Relations",
+                "United States Politics and Government",
+                "Greenhouse Gas Emissions",
+                "Presidential Election of 2024"
+            ],
+            "org_facet": [
+                "United Nations"
+            ],
+            "per_facet": [
+                "Biden, Joseph R Jr"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/27/multimedia/27CLI-BIDENCOP28-01-qwvb/27CLI-BIDENCOP28-01-qwvb-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Biden waved goodbye as he boarded Air Force One in Nantucket, Mass., to return to Washington following Thanksgiving on Sunday.",
+                    "copyright": "Maansi Srivastava/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/27/multimedia/27CLI-BIDENCOP28-01-qwvb/27CLI-BIDENCOP28-01-qwvb-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Biden waved goodbye as he boarded Air Force One in Nantucket, Mass., to return to Washington following Thanksgiving on Sunday.",
+                    "copyright": "Maansi Srivastava/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/27/multimedia/27CLI-BIDENCOP28-01-qwvb/27CLI-BIDENCOP28-01-qwvb-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Biden waved goodbye as he boarded Air Force One in Nantucket, Mass., to return to Washington following Thanksgiving on Sunday.",
+                    "copyright": "Maansi Srivastava/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Former Coal Towns Get Money for Clean-Energy Factories",
+            "abstract": "An Energy Department program designed to create jobs and manufacturing in communities reliant on fossil fuels is backing projects in West Virginia, Colorado and elsewhere.",
+            "url": "https://www.nytimes.com/2023/11/27/climate/clean-energy-funding-coal-communities.html",
+            "uri": "nyt://article/8c4e161f-86bf-5cf6-adb5-1a70337deeba",
+            "byline": "By Hiroko Tabuchi",
+            "item_type": "Article",
+            "updated_date": "2023-11-30T12:11:25-05:00",
+            "created_date": "2023-11-27T12:00:06-05:00",
+            "published_date": "2023-11-27T12:00:06-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Alternative and Renewable Energy",
+                "Factories and Manufacturing",
+                "Coal",
+                "Global Warming",
+                "Greenhouse Gas Emissions"
+            ],
+            "org_facet": [
+                "Energy Department"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Appalachian Region",
+                "Pennsylvania",
+                "Colorado",
+                "Texas",
+                "West Virginia"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/27/multimedia/27CLI-COAL-ghvm/27CLI-COAL-ghvm-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Demolition at Weirton Steel in West Virginia in 2018. A Boston company plans to build a plant there to produce metals for the clean energy industry.",
+                    "copyright": "Luke Sharrett for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/27/multimedia/27CLI-COAL-ghvm/27CLI-COAL-ghvm-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Demolition at Weirton Steel in West Virginia in 2018. A Boston company plans to build a plant there to produce metals for the clean energy industry.",
+                    "copyright": "Luke Sharrett for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/27/multimedia/27CLI-COAL-ghvm/27CLI-COAL-ghvm-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Demolition at Weirton Steel in West Virginia in 2018. A Boston company plans to build a plant there to produce metals for the clean energy industry.",
+                    "copyright": "Luke Sharrett for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Biden to Skip U.N. Climate Summit, White House Official Says",
+            "abstract": "He has attended the past two summits and calls climate change “the ultimate threat” but will miss the talks that are set to begin in Dubai on Thursday.",
+            "url": "https://www.nytimes.com/2023/11/26/climate/biden-climate-cop28-dubai.html",
+            "uri": "nyt://article/6c609090-ad73-522f-919c-875c221da5dd",
+            "byline": "By Lisa Friedman and Jim Tankersley",
+            "item_type": "Article",
+            "updated_date": "2023-11-27T10:56:39-05:00",
+            "created_date": "2023-11-26T20:32:19-05:00",
+            "published_date": "2023-11-26T20:32:19-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Global Warming",
+                "Greenhouse Gas Emissions",
+                "United Nations Framework Convention on Climate Change",
+                "United States International Relations"
+            ],
+            "org_facet": [
+                "United Nations"
+            ],
+            "per_facet": [
+                "Biden, Joseph R Jr"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/26/multimedia/26cli-bidencop28-qblc/26cli-bidencop28-qblc-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Senior White House aides have said the president has been consumed by trying to secure a pause in the war between Israel and Hamas and release of hostages held by Hamas. ",
+                    "copyright": "Maansi Srivastava/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/26/multimedia/26cli-bidencop28-qblc/26cli-bidencop28-qblc-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Senior White House aides have said the president has been consumed by trying to secure a pause in the war between Israel and Hamas and release of hostages held by Hamas. ",
+                    "copyright": "Maansi Srivastava/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/26/multimedia/26cli-bidencop28-qblc/26cli-bidencop28-qblc-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Senior White House aides have said the president has been consumed by trying to secure a pause in the war between Israel and Hamas and release of hostages held by Hamas. ",
+                    "copyright": "Maansi Srivastava/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Unvaccinated and Vulnerable: Children Drive Surge in Deadly Outbreaks",
+            "abstract": "About 60 million “zero-dose children” have not received any vaccines and have aged out of routine immunization programs. Protecting them will require a costly vaccination blitz.",
+            "url": "https://www.nytimes.com/2023/11/25/health/vaccines-children-zero-dose.html",
+            "uri": "nyt://article/e3c39ed3-c59e-57fc-9925-999d118a0588",
+            "byline": "By Stephanie Nolen",
+            "item_type": "Article",
+            "updated_date": "2023-11-28T08:25:46-05:00",
+            "created_date": "2023-11-25T16:23:50-05:00",
+            "published_date": "2023-11-25T16:23:50-05:00",
+            "material_type_facet": "",
+            "kicker": "Global Health",
+            "des_facet": [
+                "Children and Childhood",
+                "Vaccination and Immunization",
+                "Deaths (Fatalities)",
+                "Coronavirus (2019-nCoV)",
+                "Developing Countries",
+                "Rumors and Misinformation",
+                "Measles",
+                "your-feed-healthcare",
+                "your-feed-science"
+            ],
+            "org_facet": [
+                "Centers for Disease Control and Prevention",
+                "Gavi, the Vaccine Alliance",
+                "United Nations Children's Fund"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Africa",
+                "Ghana"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/21/multimedia/xx-vaccination-missed-01-gvfp/xx-vaccination-missed-01-gvfp-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Deborah Sebi, right, a nurse at a mobile clinic in Teshie, a fishing village in Ghana, prepared an immunization for Rebecca Bamembaye’s 3-month-old, Doris.",
+                    "copyright": "Natalija Gormalova for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/21/multimedia/xx-vaccination-missed-01-gvfp/xx-vaccination-missed-01-gvfp-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Deborah Sebi, right, a nurse at a mobile clinic in Teshie, a fishing village in Ghana, prepared an immunization for Rebecca Bamembaye’s 3-month-old, Doris.",
+                    "copyright": "Natalija Gormalova for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/11/21/multimedia/xx-vaccination-missed-01-gvfp/xx-vaccination-missed-01-gvfp-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Deborah Sebi, right, a nurse at a mobile clinic in Teshie, a fishing village in Ghana, prepared an immunization for Rebecca Bamembaye’s 3-month-old, Doris.",
+                    "copyright": "Natalija Gormalova for The New York Times"
+                }
+            ],
+            "short_url": ""
+        }
+    ]
+}
