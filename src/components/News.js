@@ -11,7 +11,7 @@ const News =(props)=> {
 
   const updateNews=async()=> {
     props.handleProgress(0);
-    const url = `https://api.nytimes.com/svc/topstories/v2/${props.category}.json?&pageSize=2&api-key=xb0TCOwNmAJdGckuw9gA4XvpgC40tjG3`
+    const url = `https://api.nytimes.com/svc/topstories/v2/${props.category}.json?api-key=xb0TCOwNmAJdGckuw9gA4XvpgC40tjG3`
     setLoading(true);
     props.handleProgress(30)
     let data = await fetch(url);
