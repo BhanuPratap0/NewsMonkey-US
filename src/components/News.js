@@ -43,7 +43,7 @@ const News =(props)=> {
     return (
       <>
         
-          <h1 className='text-center 'style={{ color:props.mode==='dark'?'white':'black',marginTop:'80px'}} >NewsMonkey - Latest {props.headline} Headlines</h1>
+          <h1 className='text-center 'style={{ color:props.mode==='dark'?'white':'black',marginTop:'100px'}} >NewsMonkey - Latest {props.headline} Headlines</h1>
           {/* {this.state.loading&&<Loading/>} */}
             {/* <InfiniteScroll
               dataLength={results.length}
