@@ -35,7 +35,7 @@ const App =(props)=> {
       setMode('light')
       document.body.style.backgroundColor='white';
       setText('Enable Dark Mode')
-      showAlert("Dark Mode Enabled", "success")
+      showAlert("Dark Mode Disabled", "success")
       // document.title='TextUtils - Light Mode'
     }
   }
