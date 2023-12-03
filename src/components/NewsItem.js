@@ -4,7 +4,7 @@ const NewsItem=(props)=>{
     let {title, description, imageUrl, newsUrl,author,date,source}= props;
     return (
       <div className='my-2' >
-        <div className="card" style={{ boxShadow:'10px 5px 35px black' ,width:'23rem'}} >
+        <div className={`card bg-${props.mode}`} style={{ color:props.mode=='dark'?'white':'black' ,boxShadow:'10px 5px 35px black' ,width:'23rem'}} >
           <div className='d-flex' 
           style={{justifyContent:'flex-end',
             position:'absolute',
