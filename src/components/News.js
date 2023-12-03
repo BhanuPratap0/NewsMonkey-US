@@ -43,7 +43,7 @@ const News =(props)=> {
     return (
       <>
         
-          <h1 className='text-center 'style={{ color:props.mode==='dark'?'white':'black',marginTop:'60px'}} >NewsMonkey - Latest {props.headline} Headlines</h1>
+          <h1 className='text-center 'style={{ color:props.mode==='dark'?'white':'black',marginTop:'20px'}} >NewsMonkey - Latest {props.headline} Headlines</h1>
           {/* {this.state.loading&&<Loading/>} */}
             {/* <InfiniteScroll
               dataLength={results.length}
@@ -55,7 +55,7 @@ const News =(props)=> {
               <div className='row' >
               {results.map((element,index) => {
                 return <div key={index} className='col-md-4'>
-                  <NewsItem mode={props.mode}  source={element.source} author={element.byline} date={element.updated} title={element.title ? element.title.slice(0, 45) : ""} description={element.abstract ? element.abstract.slice(0, 88) : ""} imageUrl={element.multimedia[0].url ? element.multimedia[0].url : "https://cdn.ndtv.com/common/images/ogndtv.png"} newsUrl={element.url} />
+                  <NewsItem mode={props.mode}  source={element.source} author={element.byline} date={element.updated} title={element.title ? element.title.slice(0, 45) : ""} description={element.abstract ? element.abstract.slice(0, 88) : ""} imageUrl={element.multimedia[0].url ? element.multimedia[0].url : "https://cdn.ndtv.com/common/images/ogndtv.png"} newsUrl={element.url}/>
                 </div>
               })}
               </div>
