@@ -56,7 +56,7 @@ const App =(props)=> {
         //onLoaderFinished={() => handleProgress(0)}
       />
       <NavBar text={text} mode={mode} toggleMode={toggleMode} />
-      <Alert alert={alert}/>
+      {/* <Alert alert={alert}/> */}
       <Routes>
       <Route exact path="/" element={<News mode={mode}  apiKey={apiKey} handleProgress={handleProgress} key="general" headline="World" pageSize={6} category="world"/>} ></Route>
         <Route exact path="/arts" element={<News mode={mode} apiKey={apiKey}  handleProgress={handleProgress} key="arts" headline="Arts" pageSize={6} category="arts"/>} ></Route>
