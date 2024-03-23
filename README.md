@@ -1,70 +1,71 @@
-# Getting Started with Create React App
+# NewsMonkey-US
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to **NewsMonkey-US**, a sleek and responsive news application designed to bring you the latest and most relevant news from around the world. Crafted with care by [Bhanu Pratap Singh](https://www.linkedin.com/in/bhaanu-p/), this project aims to provide users with a seamless experience in accessing news across various categories, powered by the New York Times News API.
 
-## Available Scripts
+[![Netlify Status](https://api.netlify.com/api/v1/badges/your-netlify-badge-id/deploy-status)](https://newsmonkey-us.netlify.app/)
 
-In the project directory, you can run:
+### 🌐 Live Demo
+To see **NewsMonkey-US** in action, visit the live demo here: [https://newsmonkey-us.netlify.app/](https://newsmonkey-us.netlify.app/)
 
-### `npm start`
+### 📦 Repository
+The project's source code is available on GitHub: [https://github.com/BhanuPratap0/NewsMonkey-US](https://github.com/BhanuPratap0/NewsMonkey-US)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Real-time News Updates:** Stay updated with the latest news fetched directly from the New York Times News API.
+- **Categorized News:** Browse news according to categories to find what interests you the most.
+- **Responsive Design:** Enjoy a seamless reading experience on any device, be it desktop, tablet, or mobile.
+- **User-friendly Interface:** A simple and intuitive interface ensures that you find the news you're looking for without any hassle.
 
-### `npm test`
+## Technologies Used
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **React.js:** This project is built using React.js, making it highly interactive and responsive.
+- **New York Times News API:** Leveraging the powerful New York Times News API for fetching real-time news articles.
+- **Netlify:** Hosted on Netlify, ensuring high availability and performance.
 
-### `npm run build`
+## Getting Started
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To get a local copy up and running, follow these simple steps.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Prerequisites
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Node.js
+- npm
 
-### `npm run eject`
+```sh
+npm install npm@latest -g
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Installation
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. Clone the repo
+```sh
+git clone https://github.com/BhanuPratap0/NewsMonkey-US.git
+```
+2. Install NPM packages
+```sh
+npm install
+```
+3. Start the project
+```sh
+npm start
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Contact
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Bhanu Pratap Singh - [LinkedIn Profile](https://www.linkedin.com/in/bhaanu-p/)
 
-## Learn More
+Email: singh28986@gmail.com
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Project Link: [https://github.com/BhanuPratap0/NewsMonkey-US](https://github.com/BhanuPratap0/NewsMonkey-US)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Acknowledgments
 
-### Code Splitting
+- [React Documentation](https://reactjs.org/docs/getting-started.html)
+- [New York Times News API](https://developer.nytimes.com/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## License
 
-### Analyzing the Bundle Size
+This project is not covered under any license.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
